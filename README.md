@@ -13,5 +13,6 @@
 <iframe width="800" height="500" src="https://www.youtube.com/embed/qgAKTZOy_dg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### and some frogs wear hats!
 # 𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏
-# ***If you want to help keep our little green machines alive, click below!***
-https://savethefrogs.com/help/
+# ***If you want to help keep our little green machines alive, scan below!***
+<img width="242" alt="savefrogs" src="https://github.com/dcruzalvarad0/data_su23_website/assets/133800496/5fe8f97e-aa97-47f0-a256-b9ed613ff0bf">
+
